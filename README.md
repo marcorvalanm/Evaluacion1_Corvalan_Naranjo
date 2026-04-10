@@ -1,9 +1,13 @@
 Proyecto Integrado de Ciencia de Datos - Evaluación Parcial 1
 
 Integrantes
+
 Martin Naranjo
+
 Martin Corvalan
+
 Origen y Descripción de los Datos
+
 El dataset seleccionado es "NBA 10000 Dirty", un registro detallado de las estadísticas de los jugadores de la NBA a lo largo de varias temporadas (temporada regular y playoffs). Contiene información vital como minutos jugados (MIN), puntos anotados (PTS), rebotes (REB), asistencias (AST), y porcentajes de tiro. 
 El archivo original presenta desafíos clásicos de datos "crudos", incluyendo registros nulos, filas duplicadas y jugadores con estadísticas atípicas, lo que lo hace ideal para aplicar técnicas de limpieza y transformación.
 
